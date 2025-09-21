@@ -1,0 +1,13 @@
+*.o
+*.out
+*.mod
+*.mod.*
+*.ko
+*.cmd
+*.symvers
+*.order
+
+# Ship it along with the repository
+# *.generated.c
+
+utilities
